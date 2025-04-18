@@ -1,2 +1,2 @@
-# Sistema-de-Reserva-de-Turnos-M-dicos-2025
+# Sistema-de-Reserva-de-Turnos-Medicos-2025
 Trabajo práctico de python
